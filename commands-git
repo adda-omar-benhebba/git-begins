@@ -2,3 +2,4 @@ cd git-begins
 git add .
 git commit -m "pushgitbegins"
 git push
+git pull ou git fetch

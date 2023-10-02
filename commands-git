@@ -1,4 +1,4 @@
 cd git-begins 
-git add
+git add .
 git commit -m "pushgitbegins"
 git push
